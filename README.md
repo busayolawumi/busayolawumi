@@ -1,10 +1,10 @@
 <h1>👋🏾Hey, Busayo here!</h1>
-<p>A Front-end Developer going fullstack</p>
+<p>A Front-end Developer going fullstack.</p>
 <hr>
 👀 I’m interested in Web & Software Dev.<br>
-🌱 Currently learning JS and ReactJs <br>
-💞️ I’m available to collaborate on web development projects<br>
-📫 You can reach me @busayoolawumi3@gmail.com
+🌱 Currently learning JS and ReactJs. <br>
+💞️ I’m available to collaborate on web development projects.<br>
+📫 You can reach me @busayoolawumi3@gmail.com.
 
 <!---
 busayolawumi/busayolawumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
