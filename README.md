@@ -2,7 +2,7 @@
 <p>A Front-end Developer going fullstack</p>
 <hr>
 👀 I’m interested in Web & Software Dev.<br>
-🌱 Cuurrently learning JS and React.Js <br>
+🌱 Currently learning JS and ReactJs <br>
 💞️ I’m available to collaborate on web development projects<br>
 📫 You can reach me @busayoolawumi3@gmail.com
 
