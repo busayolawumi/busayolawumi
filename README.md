@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Web Developer
 -----------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;Resourceful Front End Web Developer with experience handling complex HTML, CSS and JavaScript coding, design and extensions to meet organization's front-facing internet needs. Detail-oriented collaboration with others to define project expectations and demand. Hands-on testing and debugging to address inconsistencies and maintain performance thresholds.
+&nbsp;&nbsp;&nbsp;&nbsp;Resourceful Front End Web Developer with experience handling complex ReactJS, HTML, CSS and JavaScript coding, design and extensions to meet organization's front-facing internet needs. Detail-oriented collaboration with others to define project expectations and demand. Hands-on testing and debugging to address inconsistencies and maintain performance thresholds.
 
 *   🌍  I'm based in Abuja, Nigeria
 *   🖥️  See my portfolio at [Meet Busayo](http://meet-busayo.vercel.app)
