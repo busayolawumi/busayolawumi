@@ -11,7 +11,9 @@ Front End Web Developer
 *   ✉️  You can contact me at [oluwabusayolawumi@gmail.com](mailto:oluwabusayolawumi@gmail.com)
 *   🧠  I'm learning ReactJS
 *   🤝  I'm open to collaborating on Projects that will help me as a developer
-*   ⚡  Shh!, only telling you this, I'm a rapid learner!
+*   ⚡  I'm a rapid learner!
+
+![](https://komarev.com/ghpvc/?username=busayolawumi&style=for-the-badge	)
 
 <h2>SKILLS</h2>
 <p align="left">
