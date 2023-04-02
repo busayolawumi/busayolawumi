@@ -32,7 +32,6 @@ Front End Web Developer
 <a href="https://www.twitter.com/busayocodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/busayocodes " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 <h2>Github Stats</h2>
-![](https://github-readme-stats.vercel.app/api?username=busayolawumi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=busayolawumi)](https://git.io/streak-stats)
 <h2>SUPPORT ME</h2>
 <a target="_blank" href="https://www.buymeacoffee.com/busayolawumi "><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
