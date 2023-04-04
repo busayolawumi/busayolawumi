@@ -4,7 +4,7 @@ Olawumi Oluwabusayo
 Front End Web Developer
 -----------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;Resourceful Front End Web Developer with experience handling complex ReactJS, HTML, CSS and JavaScript coding, design and extensions to meet organization's front-facing internet needs. Detail-oriented collaboration with others to define project expectations and demand. Hands-on testing and debugging to address inconsistencies and maintain performance thresholds.
+&nbsp;&nbsp;&nbsp;&nbsp;Experienced React Front End Developer with a passion for building efficient and scalable web applications that deliver a seamless user experience. Proficient in creating responsive and intuitive user interfaces, integrating with backend APIs, and adhering to modern web development best practices. Collaborative team player with strong communication skills and experience in agile development and modern tools such as Git, Jira, and continuous integration and delivery.
 
 *   🌍  I'm based in Abuja, Nigeria
 *   🖥️  See my portfolio at [Meet Busayo](http://meet-busayo.vercel.app)
