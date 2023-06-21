@@ -18,7 +18,7 @@ Front End Web Developer
 <h2>SKILLS </h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,tailwind,git,vite,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,wordpress,vite,html,css,bootstrap,git" />
   </a>
 </p>
 <h2>SOCIALS</h2>
