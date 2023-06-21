@@ -7,30 +7,38 @@ Front End Web Developer
 &nbsp;&nbsp;&nbsp;&nbsp;Experienced React Front End Developer with a passion for building efficient and scalable web applications that deliver a seamless user experience. Proficient in creating responsive and intuitive user interfaces, integrating with backend APIs, and adhering to modern web development best practices. Collaborative team player with strong communication skills and experience in agile development and modern tools such as Git, Jira, and continuous integration and delivery.
 
 *   🌍  I'm based in Abuja, Nigeria.
-*   🖥️  See my portfolio at [Meet Busayo](http://meet-busayo.vercel.app)
+*   🖥️  Take a Look at <a target='_blank' href='http://meet-busayo.vercel.app'>my Portfolio</a>
 *   ✉️  You can contact me at [oluwabusayolawumi@gmail.com](mailto:oluwabusayolawumi@gmail.com)
 *   🧠  I'm learning ReactJS
-*   🤝  I'm open to collaborating on Projects that will help me as a developer
+*   🤝  I'm open to collaborating on projects that will help me as a developer
 *   ⚡  I'm a rapid learner!
 
 ![](https://komarev.com/ghpvc/?username=busayolawumi&style=for-the-badge	)
 
 <h2>SKILLS </h2>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,git,vite,html,css,bootstrap" />
+  </a>
 </p>
 <h2>SOCIALS</h2>
-<p align="left">                   
-<a href="https://www.github.com/busayolawumi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>                                                   
-<a href="https://www.linkedin.com/in/busayolawumi " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>                      
-<a href="https://www.stackoverflow.com/users/busayolawumi " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>                         
-<a href="https://www.twitter.com/busayocodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/busayocodes " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p>
+  <a href="https://www.github.com/busayolawumi" target="_blank" rel="noreferrer">
+   <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/busayolawumi "target="_blank" rel="noreferrer">
+   <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.stackoverflow.com/users/busayolawumi "target="_blank" rel="noreferrer">
+   <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
+  <a href="https://www.twitter.com/busayocodes" target="_blank" rel="noreferrer">
+   <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="http://www.instagram.com/busayocodes" target="_blank" rel="noreferrer">
+   <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 <!-- <h2>SUPPORT ME</h2>
 <a target="_blank" href="https://www.buymeacoffee.com/busayolawumi "><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </p> -->
