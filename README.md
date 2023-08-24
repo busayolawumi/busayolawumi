@@ -31,16 +31,16 @@ Front End Web Developer
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <p align='center'>
-  <a href="https://www.linkedin.com/in/busayolawumi "target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/busayolawumi" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/lesley_wanjiku">
+  <a href="https://twitter.com/busayocodes" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="http://www.instagram.com/busayocodes" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-   <a href="https://www.stackoverflow.com/users/busayolawumi "target="_blank" rel="noreferrer">
+   <a href="https://stackoverflow.com/users/19370667/busayolawumi" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/StackOverflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
