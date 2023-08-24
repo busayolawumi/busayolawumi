@@ -9,7 +9,7 @@ Front End Web Developer
 *   🌍  I'm based in Abuja, Nigeria.
 *   🖥️  Take a Look at <a target='_blank' href='http://meet-busayo.vercel.app'>my Portfolio</a>
 *   ✉️  You can contact me at [oluwabusayolawumi@gmail.com](mailto:oluwabusayolawumi@gmail.com)
-*   🧠  I'm learning ReactJS
+*   🧠  I'm learning ThreeJS
 *   🤝  I'm open to collaborating on projects
 *   ⚡  I'm a rapid learner!
 
