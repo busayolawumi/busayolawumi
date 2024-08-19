@@ -1,15 +1,15 @@
 Olawumi Oluwabusayo
 ===========================================================================================================================================
 
-Front End Web Developer
+Web & Software Developer
 -----------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;Experienced React Front End Developer with a passion for building efficient and scalable web applications that deliver a seamless user experience. Proficient in creating responsive and intuitive user interfaces, integrating with backend APIs, and adhering to modern web development best practices. Collaborative team player with strong communication skills and experience in agile development and modern tools such as Git, Jira, and continuous integration and delivery.
+&nbsp;&nbsp;&nbsp;&nbsp;Experienced Web and Software Developer with a passion for building efficient and scalable web applications that deliver a seamless user experience. Proficient in creating responsive and intuitive user interfaces, integrating with backend APIs, and adhering to modern web development best practices. Collaborative team player with strong communication skills and experience in agile development and modern tools such as Git, Jira, and continuous integration and delivery.
 
 *   🌍  I'm based in Abuja, Nigeria.
 *   🖥️  Take a Look at <a target='_blank' href='http://meet-busayo.vercel.app'>my Portfolio</a>
 *   ✉️  You can contact me at [oluwabusayolawumi@gmail.com](mailto:oluwabusayolawumi@gmail.com)
-*   🧠  Learning ThreeJS
+*   🧠  Learning Kotlin
 *   🤝  Open to collaborating on projects
 *   ⚡  Rapid learner!
 
