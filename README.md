@@ -4,7 +4,7 @@ Olawumi Oluwabusayo
 Web & Software Developer
 -----------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;Experienced Web and Software Developer with a passion for building efficient and scalable web applications that deliver a seamless user experience. Proficient in creating responsive and intuitive user interfaces, integrating with backend APIs, and adhering to modern web development best practices. Collaborative team player with strong communication skills and experience in agile development and modern tools such as Git, Jira, and continuous integration and delivery.
+Experienced Web and Software Developer with a keen focus on crafting efficient, scalable web applications that prioritise seamless user experiences. Adept at building responsive, intuitive user interfaces, seamlessly integrating with backend APIs, and adhering to modern web development best practices. A collaborative team player with strong communication skills, experienced in agile methodologies, and well-versed in tools like Git, Jira, and continuous integration and delivery.
 
 *   🌍  I'm based in Abuja, Nigeria.
 *   🖥️  Take a Look at <a target='_blank' href='http://meet-busayo.vercel.app'>my Portfolio</a>
