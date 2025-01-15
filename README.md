@@ -18,7 +18,7 @@ Experienced Web and Software Developer with a keen focus on crafting efficient, 
 <h2>SKILLS </h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,js,wordpress,firebase,html,css,tailwind,materialui,bootstrap,vite,git" />
+    <img src="https://skillicons.dev/icons?i=react,next,typescript,js,wordpress,firebase,html,css,tailwind,materialui,bootstrap,vite,git" />
   </a>
 </p>
 
