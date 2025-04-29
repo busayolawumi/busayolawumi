@@ -31,7 +31,7 @@ Experienced Web Front-End Developer passionate about creating efficient and scal
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=busayolawumi&theme=soft-green&hide_border=true&card_width=380)](https://git.io/streak-stats)
-    <img alt="oluwabusayo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=busayolawumi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="400px"/>  
+    <img alt="oluwabusayo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=busayolawumi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=08DC4D&icon_color=08DC4D" height="192px" width="400px"/>  
 </div>
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
