@@ -1,7 +1,7 @@
 Olawumi Oluwabusayo
 ===========================================================================================================================================
 
-Web & Software Developer
+Web Developer
 -----------------------
 
 Experienced Web Front-End Developer passionate about creating efficient and scalable web applications that ensure a seamless user experience. Skilled in designing respopnsive, intuitive interfaces, integrating with backend APIs, and applying modern web development best practices. A collaborative team playerwith strong communication skills, experienced in agile methodologies and proficient with tools such as Git and Jira.
