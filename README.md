@@ -23,7 +23,7 @@ Experienced Web Front-End Developer passionate about creating efficient and scal
 <h2>SKILLS </h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,typescript,js,wordpress,firebase,html,css,tailwind,materialui,bootstrap,vite,git" />
+    <img src="https://skillicons.dev/icons?i=react,next,typescript,js,wordpress,supabase,firebase,html,css,tailwind,materialui,bootstrap,vite,git" />
   </a>
 </p>
 
