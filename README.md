@@ -39,7 +39,7 @@ Experienced Web Front-End Developer passionate about creating efficient and scal
 <p align="center">
    <a href="https://www.linkedin.com/in/busayolawumi">
     <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"/></a>&nbsp;&nbsp;
-  <a href="https://x.com/busayocodes">
+  <a href="https://x.com/busayolawumi">
     <img alt="X" title="X Profile" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge"/></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/busayocodes">
     <img alt="Instagram" title="Instagram Profile" src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge"/></a>&nbsp;&nbsp;
