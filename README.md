@@ -4,7 +4,7 @@ Olawumi Oluwabusayo
 Frontend Engineer
 -----------------------
 
-Experienced Frontend Engineer passionate about building performant, scalable, and user-focused web applications. Skilled in developing responsive and accessible interfaces, integrating seamlessly with backend APIs, and delivering high-quality solutions using modern frontend technologies and engineering best practices. Committed to writing clean, maintainable code and collaborating effectively within Agile teams, with hands-on experience using tools such as Git and Jira to deliver reliable software.
+Frontend Engineer with experience building modern, responsive, and scalable web applications. Passionate about creating intuitive user experiences while writing clean, maintainable, and performant code. Experienced in translating UI/UX designs into production-ready applications, integrating with backend services, and optimising performance, accessibility, and responsiveness. A collaborative team player with strong communication skills, experienced in Agile development and proficient with tools such as Git and Jira.
 
 *   🌍  I'm based in Abuja, Nigeria.
 *   🖥️  Take a Look at <a target='_blank' href='http://meet-busayo.vercel.app'>my Portfolio</a>
