@@ -6,7 +6,6 @@ Frontend Engineer
 
 Frontend Engineer with experience building modern, responsive, and scalable web applications. Passionate about creating intuitive user experiences while writing clean, maintainable, and performant code. Experienced in translating UI/UX designs into production-ready applications, integrating with backend services, and optimising performance, accessibility, and responsiveness. A collaborative team player with strong communication skills, experienced in Agile development and proficient with tools such as Git and Jira.
 
-*   🌍  I'm based in Abuja, Nigeria.
 *   🖥️  Take a Look at <a target='_blank' href='http://meet-busayo.vercel.app'>my Portfolio</a>
 *   ✉️  You can contact me at [oluwabusayolawumi@gmail.com](mailto:oluwabusayolawumi@gmail.com)
 *   🧠  Learning React Native
