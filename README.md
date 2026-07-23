@@ -30,7 +30,7 @@ Frontend Engineer with experience building modern, responsive, and scalable web 
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=busayolawumi&theme=dark&background=202830&ring=00DC4D&fire=00DC4D&currStreakLabel=00DC4D&sideLabels=00DC4D&sideNums=00DC4D&dates=FFFFFF&currStreakNum=00DC4D&hide_border=true&card_width=450" alt="GitHub Streak" />
-<img alt="oluwabusayo's Github Stats" src="https://github-stats-extended.vercel.app/api?username=busayolawumi&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=202830&text_color=ffffff&icon_color=00DC4D&ring_color=00DC4D&cache_seconds=21600&show=prs_authored,prs_merged_percentage&hide=prs"/>
+<img alt="oluwabusayo's Github Stats" src="https://github-stats-extended.vercel.app/api?username=busayolawumi&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=202830&text_color=ffffff&icon_color=00DC4D&ring_color=00DC4D&cache_seconds=21600&card_width=450px&show=prs_authored,prs_merged_percentage&hide=prs"/>
 
 </div>
 
