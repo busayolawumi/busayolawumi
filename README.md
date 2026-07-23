@@ -29,8 +29,9 @@ Frontend Engineer with experience building modern, responsive, and scalable web 
 <h2>ACTIVITY </h2>
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=busayolawumi&theme=soft-green&hide_border=true&card_width=380" alt="" onerror="this.style.display='none';" />
-    <img alt="oluwabusayo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=busayolawumi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=08DC4D&icon_color=08DC4D" height="192px" width="400px"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=busayolawumi&theme=dark&background=202830&ring=00DC4D&fire=00DC4D&currStreakLabel=00DC4D&sideLabels=00DC4D&sideNums=00DC4D&dates=FFFFFF&currStreakNum=00DC4D&hide_border=true&card_width=450" alt="GitHub Streak" />
+<img alt="oluwabusayo's Github Stats" src="https://github-stats-extended.vercel.app/api?username=busayolawumi&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=202830&text_color=ffffff&icon_color=00DC4D&ring_color=00DC4D&cache_seconds=21600&show=prs_authored,prs_merged_percentage&hide=prs"/>
+
 </div>
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
@@ -47,7 +48,3 @@ Frontend Engineer with experience building modern, responsive, and scalable web 
    <a href="https://stackoverflow.com/users/19370667/busayolawumi" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/StackOverflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
-
-<!-- <h2>SUPPORT ME</h2>
-<a target="_blank" href="https://www.buymeacoffee.com/busayolawumi "><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-</p> -->
