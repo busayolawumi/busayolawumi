@@ -8,8 +8,8 @@ Frontend Engineer with experience building modern, responsive, and scalable web 
 
 *   ✉️  You can contact me at [oluwabusayolawumi@gmail.com](mailto:oluwabusayolawumi@gmail.com)
 *   🤝  Open to collaborating on projects
-*   🖥️  Take a Look at <a target='_blank' href='https://meet-busayo.vercel.app'>my Portfolio</a>
 *   🧠  Exploring Backend Engineering
+*   🖥️  Take a Look at <a target='_blank' href='https://meet-busayo.vercel.app'>my Portfolio</a>
 *   ⚡  Rapid learner!
 
 ![](https://komarev.com/ghpvc/?username=busayolawumi&style=for-the-badge	)
